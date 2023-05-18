@@ -15,6 +15,10 @@ Basic NodeJS + MongoDB boilerplate server to develop and deploy your apps as fas
 - RefreshTokens
 - Typescript & ESLint
 
+## Roadmap
+
+- Tests (Jest)
+
 
 ## Run Locally
 

@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Server",
   "compilerOptions": {
-      "target": "es6",
+      "target": "ESNext",
       "module": "commonjs",
       "allowJs": true,
       "skipLibCheck": true,
